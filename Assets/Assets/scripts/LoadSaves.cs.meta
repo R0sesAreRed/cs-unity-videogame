@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eff740b65d8d98040be33ffab3cce2f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChipBlack: {fileID: 21300000, guid: b8d882131bcf76f4686dbc4469ced388, type: 3}
+  - ChipCyan: {fileID: 21300000, guid: 6323d2c18eebcbc4eb407fa10c4f6187, type: 3}
+  - ChipPink: {instanceID: 0}
+  - ChipYellow: {instanceID: 0}
+  - ChipBrown: {instanceID: 0}
+  - ChipOrange: {instanceID: 0}
+  - ChipWhite: {instanceID: 0}
+  - ChipBlue: {instanceID: 0}
+  - ChipGreen: {instanceID: 0}
+  - ChipRed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

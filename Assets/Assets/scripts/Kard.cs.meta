@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e48ceb96a5d74f54ebf0b1309b04f51d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CardDisplay: {instanceID: 0}
+  - TransparentSprite: {fileID: 21300000, guid: d58c01b88ad6cc34893524ff3ec0a3db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
